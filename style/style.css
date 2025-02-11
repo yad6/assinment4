@@ -1,0 +1,133 @@
+.navv{
+    display: flex;
+    justify-content: space-between;
+    height: 109;
+    width: 1600;
+    padding:5px 30px 5px 30px;
+    align-items: center;
+    border: 10px solid black;
+
+
+}
+.mnav{
+    background-color: antiquewhite;
+}
+.ull{
+    display: flex;
+list-style: none;
+gap:15px;
+
+}
+.he1{
+    width: 827px;
+    height: 150px;
+    text-align: center;
+    margin:10px 70px 0px 70px;
+}
+.im2{
+    width: 827px;
+    height: 300px;
+    margin:0px 70px 10px 70px;
+}
+.im{
+    height: 100%;
+    width: 100%;
+}
+.card{
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+    padding:5px 5px 0px 5px;
+    border-radius: 10%;
+    background-color: antiquewhite;
+}
+.box1{
+    display: flex;
+    height: 257px;
+    width: 945px;
+    justify-content: space-between;
+    border: 3px solid black;
+    margin:0px 20px 10px 20px;
+
+}
+section h2{
+    color: green;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.sbox{
+    width: 1600px;
+    height: 405px;
+    background-color:antiquewhite;
+
+}
+.pp2{
+    width: 600px;
+    height: 270px;
+}
+.ppi{
+    height: 100%;
+    width: 100%;
+}
+
+.sbox1{
+    display: flex;
+    margin: 0px 40px 0px 40px;
+}
+.ao1{
+    display: flex;
+    background-color: green;
+    padding: 20PX 20PX 20PX 20PX;
+    height: 300PX;
+    width:550PX ;
+}
+.ao2{
+    display: flex;
+    background-color:darkblue;
+    padding: 20PX 20PX 20PX 20PX;
+    height: 300PX;
+    width:350PX ;
+}
+.ao{
+    display: flex;
+    margin-left: 25px;
+}
+.glo{
+    display: flex;
+    background-color: antiquewhite;
+    height: 350px;
+    width: 750px;
+    border-radius: 5%;
+    margin: 15px 100px 0px 150px;
+    border: 2px solid black;
+    position: relative;
+    top:200px
+
+}
+.fr5{
+    display: flex;
+    list-style: none;
+    margin-right: 80px;
+    gap:7px
+}
+.fr1{
+    display: flex;
+    justify-content: space-between;
+    height: 450px;
+    width: 1000px;
+    background-color: green;
+    align-items: flex-end;
+    margin-left: 30px;
+
+ 
+}
+.frl{
+    margin-left: 30px;
+}
+.fr4{
+list-style-type: none;
+
+}
